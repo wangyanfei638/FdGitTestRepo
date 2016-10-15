@@ -15,8 +15,14 @@ public class FirstActivity extends Activity {
 		
 	}
 	
+	
 	protected void onDestroy(){
 		super.onDestroy();
+	}
+	
+	
+	protected void onStart(){
+		super.onStart();
 	}
 
 }
