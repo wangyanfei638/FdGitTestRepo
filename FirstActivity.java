@@ -24,5 +24,11 @@ public class FirstActivity extends Activity {
 	protected void onStart(){
 		super.onStart();
 	}
+	
+	
+	//在feature2分支中添加的方法
+	public static string p2p(){
+		return "";
+	}
 
 }
