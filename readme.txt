@@ -3,3 +3,5 @@ Git is free software.
 Git is very important.
 
 Wang Yanfei is a man .
+
+private string name;
