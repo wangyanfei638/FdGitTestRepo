@@ -14,5 +14,9 @@ public class FirstActivity extends Activity {
 		setContentView(R.layout.first_layout);
 		
 	}
+	
+	protected void onStart(){
+		super.onStart();
+	}
 
 }
