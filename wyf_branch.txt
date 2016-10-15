@@ -1,0 +1,10 @@
+
+public class People{
+
+	private string name;
+	
+	public string getName(){
+	
+		return name;
+	}
+}
