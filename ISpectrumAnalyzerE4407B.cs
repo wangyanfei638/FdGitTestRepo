@@ -39,5 +39,7 @@ namespace 频谱仪E4407B
         void setVbwRbw(double vbwRbw);         //设置Vbw/Rbw ？
         peakSearchResult peakSearch(double peakExcursion);  //峰值搜索 ，参数？
         peakSearchResult nextPeek(double peakExcursion);      //下一个峰值
+		
+		void get功率();
     }
 }
