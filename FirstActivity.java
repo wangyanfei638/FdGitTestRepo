@@ -28,7 +28,7 @@ public class FirstActivity extends Activity {
 	
 	//在feature2分支中添加的方法
 	public static string p2p(){
-		return "";
+		return "p2p";
 	}
 	
 	//在feature3分支中添加的方法
