@@ -41,4 +41,11 @@ public class FirstActivity extends Activity {
 		return px;
 	}
 
+	/**
+	*开发者1:dev分支：添加了一个getView（）方法
+	*/
+	public View getView{
+		View view = new View();
+		return view;
+	}
 }
