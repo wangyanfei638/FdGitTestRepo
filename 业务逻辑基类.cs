@@ -106,7 +106,7 @@ namespace 业务逻辑
             {
                 测试完毕(sender, e);
 
-                is测试中 = false;  //在测试出口，把“is测试中”标志位置false
+                is测试中 = true;  //true
             }
         }
         #endregion
